@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿//Code referenced from https://learn.microsoft.com/en-us/windows/apps/design/devices/kinect-for-windows
+// Additionally referenced from https://github.com/erajan0305/Roll-a-Ball-Kinect
+using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 using Kinect = Windows.Kinect;
