@@ -1,9 +1,9 @@
 # KinectRollaBallExerciseGame
 
 # Description
-A game I am developing for my University Project which is intented to be an exergame used by people with Parkinson's Disease
+A game I am developing for my University Project which is intended to be an exergame used by people with Parkinson's Disease
 
-# Tools and sofware used
+# Tools and software used
 
 1. Downloaded Kinect for Windows SDK 2.0 and the Unity Pro Packages
 2. Downloaded Visual Studio Community 2019 
@@ -17,12 +17,12 @@ A game I am developing for my University Project which is intented to be an exer
 4. Remove the default scene from the hierarchy pane
 5. Press Play on the Home Screen scene
 6. Choose New Game which will load the Character Selection scene
-7. Select a Charater and press play, which will then load the Level One screen
+7. Select a Character and press play, which will then load the Level One screen
 
 # How to play the game
 
 1. Once the Level One screen has loaded, move your upper torso in any direction you wish and this will start the ball moving in that direction
-2. Navigate the ball around the table and pick up all the rotaing cubes. One they have all been collected the game will move to Level Two.
+2. Navigate the ball around the table and pick up all the rotating cubes. One they have all been collected the game will move to Level Two.
 3. Once the Level Two screen has loaded, navigate the ball around the table as before and collect all the available rotating cubes.
 4. The game ends after all the cubes have been collected.  
 
