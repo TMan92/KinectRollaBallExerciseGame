@@ -26,7 +26,7 @@ A game I am developing for my University Project which is intended to be an exer
 3. Once the Level Two screen has loaded, navigate the ball around the table as before and collect all the available rotating cubes.
 4. The game ends after all the cubes have been collected.  
 
-# Example Interface Screenshot image
+# Example Interface Screenshot
 
 ![Screenshot (39)](https://user-images.githubusercontent.com/126461574/232249699-db9a5517-917c-4ebf-b799-3680b9fa4f40.png)
 
