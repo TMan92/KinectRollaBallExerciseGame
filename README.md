@@ -1,4 +1,4 @@
-# KinectRollaBallGame
+# KinectRollaBallExerciseGame
 
 # Description
 A game I am developing for my University Project which is intented to be an exergame used by people with Parkinson's Disease
