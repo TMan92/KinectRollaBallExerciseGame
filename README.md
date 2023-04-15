@@ -17,7 +17,7 @@ A game I am developing for my University Project which is intented to be an exer
 4. Remove the default scene from the hierarchy pane
 5. Press Play on the Home Screen scene
 6. Choose New Game which will load the Character Selection scene
-7. Choose a Charater to play as and press play, which will then load the Level One screen
+7. Select a Charater and press play, which will then load the Level One screen
 
 # How to play the game
 
